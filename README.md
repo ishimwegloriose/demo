@@ -1,1 +1,1 @@
-this is readme its for github demo
+this is my favorite apllication i have ever did
